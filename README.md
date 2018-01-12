@@ -3,6 +3,10 @@
 Communication with voice command between picroft or Desktop and another picroft with skill-gpio8s installed.
 The communication is made using an ssh connection sending say_to_mycroft command to a remote picroft.
 
+Local (desktop or picroft) skill-communicate --> remote (picroft with skill-gpio8s)
+
+From local Picroft you are able to run remote picroft commands
+
 # Installation
 
 
@@ -76,3 +80,7 @@ Let’s see what that remote box is running at:
        user@host:~$ ssh remoteuser@remotehost.com  uname -a
  
        Linux remotehost 2.6.27-01-generic #1 SMP Thu Mar 21 10:34:21 UTC 2009 i686 GNU/Linux  
+       
+# skill install - to local Picroft
+
+msm install https://github.com/smolino/skill-communicate.git

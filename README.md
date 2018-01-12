@@ -1,6 +1,10 @@
 # skill-communicate
 
-This skill let you to communicate with voice command between picroft or Desktop and 
+Communication with voice command between picroft or Desktop and another picroft with skill-gpio8s installed.
+The communication is made using an ssh connection sending say_to_mycroft command to a remote picroft.
+
+# Installation
+
 
 Step 1. Create a public/private keys with “ssh-keygen” (ENTER through everything):
 

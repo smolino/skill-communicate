@@ -99,9 +99,11 @@ edit __init__.py and change the ip address ssh pi@your_ip_remote_address
 # Command
 
 Hey Mycroft, send turn light on
+
 Hey Mycroft, send turn light off
 
 and mycroft respond
 
 sending turn light on
+
 sending turn light off

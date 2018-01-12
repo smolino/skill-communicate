@@ -1,5 +1,6 @@
 # skill-communicate
 
+This skill let you to communicate with voice command between picroft or Desktop and 
 
 Step 1. Create a public/private keys with “ssh-keygen” (ENTER through everything):
 

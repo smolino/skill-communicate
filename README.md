@@ -7,6 +7,8 @@ Local (desktop or picroft) skill-communicate --> remote (picroft with skill-gpio
 
 From local Picroft you are able to run remote picroft commands
 
+It just work with GPIO01 switch relay
+
 # Installation
 
 
@@ -86,3 +88,13 @@ Let’s see what that remote box is running at:
 msm install https://github.com/smolino/skill-communicate.git
 
 edit __init__.py and change the ip address ssh pi@your_ip_remote_address
+
+# Command
+
+Hey Mycroft, send turn light on
+Hey Mycroft, send turn light off
+
+and mycroft respond
+
+sending turn light on
+sending turn light off

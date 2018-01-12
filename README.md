@@ -102,7 +102,7 @@ Hey Mycroft, send turn light on
 
 Hey Mycroft, send turn light off
 
-and mycroft respond
+and mycroft respond:
 
 sending turn light on
 

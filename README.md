@@ -12,6 +12,7 @@ It just work with GPIO1 switch relay
 # Requirement
 
 local Picroft - skill-communicate
+
 remote Picroft - skill-gpio8s or skill-gpio8s-lcd
 
 

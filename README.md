@@ -84,3 +84,5 @@ Let’s see what that remote box is running at:
 # skill install - to local Picroft
 
 msm install https://github.com/smolino/skill-communicate.git
+
+edit __init__.py and change the ip address ssh pi@your_ip_remote_address

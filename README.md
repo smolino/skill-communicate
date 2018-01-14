@@ -7,7 +7,6 @@ Local (desktop or picroft) skill-communicate --> remote (picroft with skill-gpio
 
 From local Picroft you are able to run remote picroft commands
 
-It just work with GPIO1 switch relay
 
 # Requirement
 

@@ -102,8 +102,38 @@ Hey Mycroft, send turn light on
 
 Hey Mycroft, send turn light off
 
+Hey Mycroft, send Turn Switch On
+
+Hey Mycroft, send Turn Switch Off
+
+Hey Mycroft, send Turn Fan On
+
+Hey Mycroft, send Turn Fan Off
+
+Hey Mycroft, send Turn Living On
+
+Hey Mycroft, send Turn Living Off
+
+Hey Mycroft, send Turn Bathroom On
+
+Hey Mycroft, send Turn Bathroom Off
+
+Hey Mycroft, send Turn Kitchen On
+
+Hey Mycroft, send Turn Kitchen Off
+
+Hey Mycroft, send Turn Lamp On
+
+Hey Mycroft, send Turn Lamp Off
+
+Hey Mycroft, send Turn Bedroom On
+
+Hey Mycroft, send Turn Bedroom Off
+
 and mycroft respond:
 
 sending turn light on
 
 sending turn light off
+
+
